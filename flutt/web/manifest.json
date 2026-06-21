@@ -1,0 +1,10 @@
+{
+  "name": "Lava Jump",
+  "short_name": "Lava Jump",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#101620",
+  "theme_color": "#101620",
+  "description": "A small offline wall-jumping game",
+  "orientation": "portrait"
+}
