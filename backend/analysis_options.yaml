@@ -1,1 +1,3 @@
-include: package:dart_frog_lint/analysis_options.yaml
+linter:
+  rules:
+    prefer_single_quotes: true
